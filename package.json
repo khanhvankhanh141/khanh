@@ -1,0 +1,12 @@
+{
+  "name": "test-api",
+  "version": "0.1.0",
+  "tiki": {
+    "appIdentifier": "com.tiki.app.test",
+    "buildNumber": 1
+  },
+  "dependencies": {
+    "@tiki.vn/tini-ui": "^0.1.1",
+    "lodash": "^4.17.21"
+  }
+}
